@@ -1,9 +1,10 @@
 import React from "react";
+import Flexbox from "./Flexbox";
 
 const App = () => {
   return (
     <div>
-      <h1 className="">Tailwind css version 4</h1>
+      <Flexbox></Flexbox>
     </div>
   );
 };
